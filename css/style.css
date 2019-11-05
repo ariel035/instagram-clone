@@ -1,0 +1,17 @@
+/**   ==========================
+              GENERAL
+      ==========================    **/
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+/**   ==========================
+              NAVIGATION
+      ==========================    **/
+
+ul li {
+    display: inline;
+    text-decoration: none;
+}
